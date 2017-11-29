@@ -1,0 +1,64 @@
+.login-page {background:url('../img/bg2.png'); background-size: cover}
+.login-logo img {width: 75%; }
+.login-logo {margin-bottom: 0px;}
+.login-box {margin: 3% auto;}
+.box-header .box-title {font-weight: bold}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {background: #f7f5f5; opacity: 1;}
+
+.deci.big {font-size: 20px}
+.label {font-size: 100%}
+#loan_amount {font-weight: bold}
+.btn {border-radius: 0px}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {vertical-align: middle}
+
+.total-val {font-size: 20px;}
+.total-val span { font-weight: bold; color: #00a65a;}
+
+
+.btn-primary-dark {background: #006080 !important; color: #fff !important;}
+.btn-primary-dark:hover {color: #fff !important;}
+
+.modal-footer {text-align: left}
+.view-only .form-control[disabled], .view-only .form-control[readonly], .view-only fieldset[disabled] .form-control {
+    background: #fff; 
+    opacity: 1; border:none; 
+    border-bottom:1px solid #e6e6e6; padding-left:0px
+}
+
+ .form-control[disabled],  .form-control[readonly],  fieldset[disabled] .form-control {
+    background: #fff; 
+    opacity: 1; 
+}
+
+.view-only .select2-container--default .select2-selection--single, .view-only .select2-selection .select2-selection--single {
+    background: #fff !important; 
+    opacity: 1; border:none; 
+    border-bottom:1px solid #e6e6e6; padding-left:0px
+}
+.view-only .input-group.date {width:100%}
+.view-only .select2-selection__arrow, .view-only .input-group-addon {display:none}
+
+.user-header {background: #fff !important}
+.user-header p {text-align: left !important; color: #000 !important;}
+
+.navbar-nav>.user-menu>.dropdown-menu {width: auto}
+
+.navbar-brand {padding-left: 30px}
+
+.main-footer {
+    background: #444;
+    padding: 15px;
+    color: #fff;
+    border-top: 1px solid #d2d6de;
+}
+
+.content {padding-bottom: 100px}
+
+.small-box .icon {font-size: 60px; top:10px;}
+.small-box:hover .icon {
+    font-size: 60px;
+}
+
+.content-header h1 {margin: 0; font-size: 24px !important; }
+.alert-info a.btn-default {color:#000 !important; text-decoration: none}
